@@ -1,7 +1,7 @@
 {
-  "name": "@hyurl/match.case",
+  "name": "fp-match",
   "version": "0.1.0",
-  "description": "A pattern matching implementation.",
+  "description": "A functional programming pattern matching implementation.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyurl/match.case.git"
+    "url": "git+https://github.com/hyurl/fp-match.git"
   },
   "keywords": [
     "match",
@@ -20,9 +20,9 @@
   "author": "Ayon Lee <i@hyurl.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyurl/match.case/issues"
+    "url": "https://github.com/hyurl/fp-match/issues"
   },
-  "homepage": "https://github.com/hyurl/match.case#readme",
+  "homepage": "https://github.com/hyurl/fp-match#readme",
   "devDependencies": {
     "@types/node": "^10.12.23",
     "mocha": "^5.2.0"
