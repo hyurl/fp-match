@@ -1,6 +1,6 @@
 # Match-Case
 
-**A pattern matching tool.**
+**A pattern matching implementation.**
 
 ## Example
 

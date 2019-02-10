@@ -1,7 +1,7 @@
 {
   "name": "match-case",
   "version": "0.1.0",
-  "description": "A pattern matching tool.",
+  "description": "A pattern matching implementation.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
