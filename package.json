@@ -1,0 +1,33 @@
+{
+  "name": "match-case",
+  "version": "0.1.0",
+  "description": "A pattern matching tool.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/match-case.git"
+  },
+  "keywords": [
+    "match",
+    "case",
+    "pattern-matching",
+    "functional-programming"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/match-case/issues"
+  },
+  "homepage": "https://github.com/hyurl/match-case#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.23",
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
