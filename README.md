@@ -1,11 +1,11 @@
-# Match-Case
+# match.case
 
 **A pattern matching implementation.**
 
 ## Example
 
 ```javascript
-import match from "match-case";
+import match from "match.case";
 
 var target = { foo: "Hello", bar: "World" };
 
@@ -54,7 +54,7 @@ This module exports a special symbol `any` indicates matching any value of the
 input target (except `undefined`).
 
 ```javascript
-import { match, any } from "match-case";
+import { match, any } from "match.case";
 
 var target = { foo: "Hello", bar: "World" };
 
